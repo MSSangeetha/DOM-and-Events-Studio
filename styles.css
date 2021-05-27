@@ -4,3 +4,11 @@
     height: 80%;
     width: 40%;
 }
+
+#rocket{
+    /* position: absolute; */
+    /* display: block; */
+}
+
+/* 
+transform: translateX(10px);  */
